@@ -1,0 +1,28 @@
+#include<stdio.h>
+void main()
+{
+int n;
+printf("enter the number");
+scanf("%d",&n);
+printf("the number is %d",n);
+}
+
+3] printf is used to print the statment
+
+4]It is the entry point of a program
+
+5]variables are those which have no fixed values nd they can be changed
+
+6] types of variables are local nd global variables
+
+7]&operator is used to denote the address of variable
+
+8.%d refers to the integer. It is a format specifier.
+
+9.Compilation of program means converting high level language into machine level language.
+
+10.Running the program means executing the code as per the code is written.
+
+11. Syntax error means not following the rule of declaring the function or missing important symbols.
+
+12. Missing paranthesis, Missing commas,semicolons, writing wrong printf or scanf function.
